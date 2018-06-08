@@ -1,0 +1,2 @@
+/create_poll (test)
+/stop_poll (1)
